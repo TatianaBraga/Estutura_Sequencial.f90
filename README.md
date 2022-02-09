@@ -1,1 +1,1 @@
-# Qestões deestruturas sequencias em linguagem fortran
+# Qestões de estruturas sequencias em linguagem fortran
